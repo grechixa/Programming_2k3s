@@ -27,8 +27,7 @@ from binary_tree import gen_bin_tree
 print(gen_bin_tree(2, 3))
 # Вывод:
 # {'root': 3, 'left': {'root': 9, 'left': {}, 'right': {}}, 'right': {'root': 1, 'left': {}, 'right': {}}}
-
----
+```
 ## Вывод
 Функция построения бинарного дерева реализована и протестирована.
 
