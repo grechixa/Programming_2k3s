@@ -13,13 +13,13 @@
 ## Быстрый старт
 
 ```python
-from tree_builder import build_specific_tree, print_tree_bfs
+from binary_tree(no rec) import build_tree, print_tree
 
 # Построить дерево
-tree = build_specific_tree()
+tree = build_tree()
 
 # Вывести дерево по уровням
-print_tree_bfs(tree)
+print_tree_(tree)
 ```
 
 ## Пример вывода
@@ -60,7 +60,7 @@ python test_tree.py
 ## Структура проекта
 
 ```
-tree_builder.py    # Основная программа
+binary_tree(no rec).py    # Основная программа
 test_tree.py       # Unit-тесты
 README.md          # Документация
 ```
