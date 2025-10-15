@@ -1,4 +1,4 @@
-nums = [11,15,2,7]
+nums = [11,15,2,7,]
 target = 9
 
 def twoSum(nums, target):
